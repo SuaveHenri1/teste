@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesafioEstagio</string>
+
+    <!-- Strings usadas no frament_maps_activity -->
+
+    <string name="btnHorarios">Horarios</string>
+    <string name="txtHint">Busque por sua linha, ponto de parada ou local</string>
+    <string name="btnBuscar">Buscar</string>
+
+</resources>
